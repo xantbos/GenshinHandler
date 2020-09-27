@@ -1,0 +1,17 @@
+C:\Users\Adria\source\repos\GenshinHandler\bin\Debug\GenshinHandler.exe.config
+C:\Users\Adria\source\repos\GenshinHandler\bin\Debug\GenshinHandler.exe
+C:\Users\Adria\source\repos\GenshinHandler\bin\Debug\GenshinHandler.pdb
+C:\Users\Adria\source\repos\GenshinHandler\obj\Debug\GenshinHandler.csprojAssemblyReference.cache
+C:\Users\Adria\source\repos\GenshinHandler\obj\Debug\GenshinHandler.FormMain.resources
+C:\Users\Adria\source\repos\GenshinHandler\obj\Debug\GenshinHandler.Properties.Resources.resources
+C:\Users\Adria\source\repos\GenshinHandler\obj\Debug\GenshinHandler.csproj.GenerateResource.cache
+C:\Users\Adria\source\repos\GenshinHandler\obj\Debug\GenshinHandler.csproj.CoreCompileInputs.cache
+C:\Users\Adria\source\repos\GenshinHandler\obj\Debug\GenshinHandler.exe
+C:\Users\Adria\source\repos\GenshinHandler\obj\Debug\GenshinHandler.pdb
+M:\repos\GenshinHandler\obj\Debug\GenshinHandler.csprojAssemblyReference.cache
+M:\repos\GenshinHandler\obj\Debug\GenshinHandler.FormMain.resources
+M:\repos\GenshinHandler\obj\Debug\GenshinHandler.Properties.Resources.resources
+M:\repos\GenshinHandler\obj\Debug\GenshinHandler.csproj.GenerateResource.cache
+M:\repos\GenshinHandler\obj\Debug\GenshinHandler.csproj.CoreCompileInputs.cache
+M:\repos\GenshinHandler\obj\Debug\GenshinHandler.exe
+M:\repos\GenshinHandler\obj\Debug\GenshinHandler.pdb
